@@ -5,15 +5,15 @@
   ### *Description*
    website for users who want sell there electrical products
   ### The HomePage
-  ![alt text](image.png)
+  ![Image](./images/Screenshot%202026-02-26%20230931.png)
   ### ProductsPage
-  ![alt text](image-1.png)
+  ![Image](./images/Screenshot%202026-02-26%20230951.png)
 ***
 ### *Entity Relationship Diagram*
 - one user---create--> many comment
 - one user ---sells--> many Product
 - one Product ---have--> many comment
-![alt text](image-2.png)
+![Image](./images/Blank%20diagram.png)
 
 
 ### *Technologies Used*
