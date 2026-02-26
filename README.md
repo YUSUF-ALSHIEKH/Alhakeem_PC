@@ -13,7 +13,7 @@
 * Express
 ***
 ### *Future Update*
-- [] complete design HTML
+- [] complete server and mongooes
+- [] complete roter and controller functions (JS)
 - [] complete style CSS
-- [] complete game functions (JS)
 
