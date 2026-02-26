@@ -10,6 +10,7 @@
 * JS
 * CSS
 * Mongoose
+* Express
 ***
 ### *Future Update*
 - [] complete design HTML
