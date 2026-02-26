@@ -1,3 +1,18 @@
 # ElectroSouq_Bahrain
+## Date: 26th / 2 / 2026
+### By: Yusuf Alshaikh and Hussain alhakeem
+***
+  ### *Description*
+   website for users who want sell there products 
+***
+### *Technologies Used*
+* EJS
+* JS
+* CSS
+* Mongoose
+***
+### *Future Update*
+- [] complete design HTML
+- [] complete style CSS
+- [] complete game functions (JS)
 
-### Hello
