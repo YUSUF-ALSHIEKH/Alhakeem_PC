@@ -3,8 +3,19 @@
 ### By: Yusuf Alshaikh and Hussain alhakeem
 ***
   ### *Description*
-   website for users who want sell there products 
+   website for users who want sell there electrical products
+  ### The HomePage
+  ![alt text](image.png)
+  ### ProductsPage
+  ![alt text](image-1.png)
 ***
+### *Entity Relationship Diagram*
+- one user---create--> many comment
+- one user ---sells--> many Product
+- one Product ---have--> many comment
+![alt text](image-2.png)
+
+
 ### *Technologies Used*
 * EJS
 * JS
@@ -13,7 +24,7 @@
 * Express
 ***
 ### *Future Update*
-- [] complete server and mongooes
-- [] complete roter and controller functions (JS)
-- [] complete style CSS
+- [X] complete server and mongoose connected
+- [] complete router and controller
+- [] complete style CSS (last)
 
